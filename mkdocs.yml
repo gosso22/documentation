@@ -1,0 +1,6 @@
+site_name: FRI-Log Documentation
+pages:
+  - Home: index.md
+  - About: about.md
+  - Contacts: contacts.md
+theme: 'material'
